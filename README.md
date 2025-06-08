@@ -35,8 +35,6 @@ Please refer to the `/screenshots` folder to see how the tools were configured a
 - This project does not use YAML or Python SDK.
 - Everything was configured and executed using the Julep dashboard interface.
 
-## 🔗 Live Agent (if public)
-[Insert link if you published the agent]
 
 ---
 
